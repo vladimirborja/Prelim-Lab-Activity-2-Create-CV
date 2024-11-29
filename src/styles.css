@@ -1,1 +1,6 @@
-/* You can add global styles to this file, and also import other style files */
+body {
+    background-image: url("https://blogger.googleusercontent.com/img/a/AVvXsEiZc1k_pJYxD0b8VQql8AKoioGqA_GEWsD5UszE9OprThK3fuPcDy0yx7SIaxrZ7rYh2G4Q2vhq5ct0_4UPxCNu7cmThwYeetvBT_dQKSh0juc_yW03USqhjELC3NylWRcEwwSAhEb46YJmz7ubTYvIqVJh62vG2cc3LFN3TAENJ5bM0Jbo2zLKuL5n7w=s2048");
+    background-color: transparent;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
